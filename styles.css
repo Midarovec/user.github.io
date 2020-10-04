@@ -114,6 +114,9 @@ p {
  padding: 60px 0;
 }
 
+.about {
+ text-align: center;
+}
 
 .post-author img, .about-author img {
  border-radius: 50%;
